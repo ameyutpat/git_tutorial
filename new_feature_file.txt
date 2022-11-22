@@ -1,1 +1,2 @@
-This is for new feature we are adding to git_tutorial repository
+This is for new feature we are adding to git_tutorial repository.
+This is done by Amey to show merge conflict.
